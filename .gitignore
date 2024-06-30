@@ -1,0 +1,8 @@
+# Bun
+node_modules
+
+# Storages
+.storage/
+
+# dist
+dist
